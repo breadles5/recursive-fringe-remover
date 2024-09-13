@@ -24,11 +24,12 @@ Alternatively, if you prefer to build from source:
 
 ## Usage
 
-1. Run the program:
+1. Run the program if built from source:
    ```
    cargo run --release
    ```
-
+   to run from [Releases](https://github.com/breadles5/recursive-fringe-remover/releases):
+double click the executable file in file explorer.  
 2. A file dialog will open. Select the directory containing the PNG images you want to process.
 
 3. The program will recursively search for PNG files in the selected directory and its subdirectories.
