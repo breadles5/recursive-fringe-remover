@@ -1,0 +1,6 @@
+[package]
+name = "recursive-fringe-remover"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
