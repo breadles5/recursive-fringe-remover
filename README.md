@@ -1,15 +1,23 @@
 # recursive fringe remover
 
 A command-line tool to remove fringes from images recursively.   
-my take on [the oringal gui based fringe remover](https://github.com/RoanH/FringeRemover)
+my take on the [original gui based fringe remover](https://github.com/RoanH/FringeRemover)
 
 ## Installation
 
-1. Ensure you have Rust installed on your system. If not, you can install it from [https://www.rust-lang.org/](https://www.rust-lang.org/).
+1. Download the latest release from the [Releases](https://github.com/yourusername/recursive-fringe-remover/releases) page.
+
+2. Extract the downloaded archive to a location of your choice.
+
+3. (Optional) Add the directory containing the executable to your system's PATH for easier access.
+
+Alternatively, if you prefer to build from source:
+
+1. Ensure you have Rust installed on your system. If not, you can install it from https://www.rust-lang.org/.
 
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/recursive-fringe-remover.git
+   git clone https://github.com/breadles5/recursive-fringe-remover.git
    cd recursive-fringe-remover
    ```
 
