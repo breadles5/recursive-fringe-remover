@@ -5,7 +5,7 @@ my take on the [original gui based fringe remover](https://github.com/RoanH/Frin
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/recursive-fringe-remover/releases) page.
+1. Download the latest release from the [Releases](https://github.com/breadles5/recursive-fringe-remover/releases) page.
 
 2. Extract the downloaded archive to a location of your choice.
 
