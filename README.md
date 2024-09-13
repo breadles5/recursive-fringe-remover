@@ -48,14 +48,4 @@ double click the executable file in file explorer.
 ## Notes
 
 - This tool modifies images in-place. It's recommended to make a backup of your images before processing.
-- Processing time depends on the number and size of images, as well as your system's capabilities.
-
-## Requirements
-
-- Rust 2021 edition or later
-- Dependencies (automatically managed by Cargo):
-  - image = "0.25.2"
-  - walkdir = "2.3.3"
-  - rfd = "0.14.1"
-  - rayon = "1.7.0"
-  - indicatif = "0.17.3"
+- Processing time depends on the number and size of images, as well as your system's capabilities
